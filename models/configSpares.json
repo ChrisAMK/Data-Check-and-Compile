@@ -1,0 +1,22 @@
+
+[{ 
+    "username": "root",
+    "password": "root",
+    "database": "simulate",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  { 
+    "username": "laptop",
+    "password": "root",
+    "database": "drillmonitoring",
+    "host": "192.168.1.31",
+    "dialect": "mysql"
+  },
+  { 
+    "username": "root",
+    "password": "root",
+    "database": "simulate",
+    "host": "localhost",
+    "dialect": "mysql"
+  }]

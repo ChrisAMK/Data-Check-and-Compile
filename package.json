@@ -1,0 +1,26 @@
+{
+  "name": "data-check-and-compile",
+  "version": "1.0.0",
+  "description": "Loop over a Database to create a new Table for Avalibility",
+  "type": "module",
+  "main": "index.js",
+  "dependencies": {
+    "net": "^1.0.2",
+    "sequelize": "^6.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-json-modules index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisAMK/Data-Check-and-Compile.git"
+  },
+  "author": "ChrisAMK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisAMK/Data-Check-and-Compile/issues"
+  },
+  "homepage": "https://github.com/ChrisAMK/Data-Check-and-Compile#readme"
+}
